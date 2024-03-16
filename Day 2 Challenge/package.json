@@ -1,0 +1,12 @@
+{
+  "name": "day2-challenge",
+  "version": "1.0.0",
+  "description": "\"Challenge Number 2\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
